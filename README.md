@@ -1,1 +1,1 @@
-# flagsProject.
+# flagsProject
